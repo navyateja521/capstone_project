@@ -1,0 +1,188 @@
+2023-03-15 15:29:58,650-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-15 15:29:58,650-root-INFO-class used SearchFiles
+2023-03-15 15:29:58,722-root-INFO-myhcl database is connected
+2023-03-15 15:29:58,724-root-INFO-not found in database
+2023-03-15 15:29:58,724-root-INFO-not found in Drives
+2023-03-15 15:30:45,969-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-15 15:30:45,970-root-INFO-class used SearchFiles
+2023-03-15 15:30:46,050-root-INFO-myhcl database is connected
+2023-03-15 15:30:46,052-root-INFO-not found in database
+2023-03-15 15:30:46,052-root-INFO-not found in Drives
+2023-03-15 15:30:46,052-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-15 15:30:54,867-root-INFO-time taken8.815058946609497
+2023-03-15 15:30:54,867-root-INFO-ending
+2023-03-16 10:18:44,016-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 10:18:44,017-root-INFO-class used SearchFiles
+2023-03-16 10:18:44,142-root-INFO-myhcl database is connected
+2023-03-16 10:18:44,145-root-INFO-not found in database
+2023-03-16 10:18:44,146-root-INFO-not found in Drives
+2023-03-16 10:18:44,147-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 10:18:57,039-root-INFO-time taken12.892430305480957
+2023-03-16 10:18:57,040-root-INFO-ending
+2023-03-16 10:48:40,586-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 10:48:40,587-root-INFO-class used SearchFiles
+2023-03-16 10:48:40,603-root-INFO-myhcl database is connected
+2023-03-16 10:48:40,606-root-INFO-not found in database
+2023-03-16 10:48:40,606-root-INFO-not found in Drives
+2023-03-16 10:48:40,607-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 10:48:52,851-root-INFO-time taken12.24400806427002
+2023-03-16 10:48:52,851-root-INFO-ending
+2023-03-16 10:51:44,160-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 10:51:44,160-root-INFO-class used SearchFiles
+2023-03-16 10:51:44,251-root-INFO-myhcl database is connected
+2023-03-16 10:51:44,253-root-INFO-not found in database
+2023-03-16 10:51:44,253-root-INFO-not found in Drives
+2023-03-16 10:51:44,254-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 10:51:56,550-root-INFO-time taken12.295735120773315
+2023-03-16 10:51:56,550-root-INFO-ending
+2023-03-16 11:02:08,759-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:02:08,760-root-INFO-class used SearchFiles
+2023-03-16 11:02:08,857-root-INFO-myhcl database is connected
+2023-03-16 11:02:08,862-root-INFO-not found in database
+2023-03-16 11:02:08,862-root-INFO-not found in Drives
+2023-03-16 11:02:08,862-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 11:02:21,230-root-INFO-time taken12.368050575256348
+2023-03-16 11:02:21,230-root-INFO-ending
+2023-03-16 11:03:20,507-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:03:20,508-root-INFO-class used SearchFiles
+2023-03-16 11:03:20,608-root-INFO-myhcl database is connected
+2023-03-16 11:03:20,610-root-INFO-not found in database
+2023-03-16 11:03:20,611-root-INFO-not found in Drives
+2023-03-16 11:03:20,611-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 11:03:32,860-root-INFO-time taken12.249858379364014
+2023-03-16 11:03:32,861-root-INFO-ending
+2023-03-16 11:09:47,780-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:09:47,781-root-INFO-class used SearchFiles
+2023-03-16 11:09:47,877-root-INFO-myhcl database is connected
+2023-03-16 11:09:47,882-root-INFO-not found in database
+2023-03-16 11:09:47,883-root-INFO-not found in Drives
+2023-03-16 11:09:47,883-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 11:10:00,352-root-INFO-time taken12.468896865844727
+2023-03-16 11:10:00,353-root-INFO-ending
+2023-03-16 11:16:07,221-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:16:07,222-root-INFO-class used SearchFiles
+2023-03-16 11:16:07,312-root-INFO-myhcl database is connected
+2023-03-16 11:16:07,316-root-INFO-not found in database
+2023-03-16 11:16:07,316-root-INFO-not found in Drives
+2023-03-16 11:16:07,316-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 11:18:09,779-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:18:09,780-root-INFO-class used SearchFiles
+2023-03-16 11:18:09,882-root-INFO-myhcl database is connected
+2023-03-16 11:18:09,885-root-INFO-not found in database
+2023-03-16 11:18:09,885-root-INFO-not found in Drives
+2023-03-16 11:18:09,886-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 11:33:04,155-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:33:04,156-root-INFO-class used SearchFiles
+2023-03-16 11:33:04,259-root-INFO-myhcl database is connected
+2023-03-16 11:33:04,261-root-INFO-not found in database
+2023-03-16 11:33:04,262-root-INFO-not found in Drives
+2023-03-16 11:33:04,262-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 11:36:06,198-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:36:06,199-root-INFO-class used SearchFiles
+2023-03-16 11:36:06,296-root-INFO-myhcl database is connected
+2023-03-16 11:36:06,298-root-INFO-not found in database
+2023-03-16 11:36:06,299-root-INFO-not found in Drives
+2023-03-16 11:36:06,299-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 11:36:18,636-root-INFO-time taken12.336691856384277
+2023-03-16 11:36:18,637-root-INFO-ending
+2023-03-16 11:54:21,340-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:54:21,341-root-INFO-class used SearchFiles
+2023-03-16 11:54:21,452-root-INFO-myhcl database is connected
+2023-03-16 11:55:13,917-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:55:13,917-root-INFO-class used SearchFiles
+2023-03-16 11:55:14,015-root-INFO-myhcl database is connected
+2023-03-16 11:55:46,986-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 11:55:46,988-root-INFO-class used SearchFiles
+2023-03-16 11:55:47,080-root-INFO-myhcl database is connected
+2023-03-16 17:34:26,559-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 17:34:26,560-root-INFO-class used SearchFiles
+2023-03-16 17:34:26,668-root-INFO-myhcl database is connected
+2023-03-16 17:38:37,280-root-INFO-drive namec:// file name  linux1-030d851a.vmem
+2023-03-16 17:38:37,280-root-INFO-class used SearchFiles
+2023-03-16 17:38:37,387-root-INFO-myhcl database is connected
+2023-03-16 17:40:20,229-root-INFO-drive namec:// file name  mksSandbox-2.log
+2023-03-16 17:40:20,229-root-INFO-class used SearchFiles
+2023-03-16 17:40:20,331-root-INFO-myhcl database is connected
+2023-03-16 17:40:20,334-root-INFO-not found in database
+2023-03-16 17:40:20,334-root-INFO-not found in Drives
+2023-03-16 17:40:20,334-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:40:45,531-root-INFO-drive namec:// file name  mksSandbox-2.log
+2023-03-16 17:40:45,532-root-INFO-class used SearchFiles
+2023-03-16 17:40:45,564-root-INFO-myhcl database is connected
+2023-03-16 17:40:45,567-root-INFO-not found in database
+2023-03-16 17:40:45,567-root-INFO-not found in Drives
+2023-03-16 17:40:45,567-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:42:24,173-root-INFO-drive namec:// file name   workbook = xl.load_workbook("C://testdata//Testfiles.xlsx")
+2023-03-16 17:42:24,175-root-INFO-class used SearchFiles
+2023-03-16 17:42:24,271-root-INFO-myhcl database is connected
+2023-03-16 17:42:24,274-root-INFO-not found in database
+2023-03-16 17:42:24,274-root-INFO-not found in Drives
+2023-03-16 17:42:24,274-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:43:04,929-root-INFO-drive namec:// file name  mksSandbox-2.log
+2023-03-16 17:43:04,929-root-INFO-class used SearchFiles
+2023-03-16 17:43:05,024-root-INFO-myhcl database is connected
+2023-03-16 17:43:05,027-root-INFO-not found in database
+2023-03-16 17:43:05,027-root-INFO-not found in Drives
+2023-03-16 17:43:05,027-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:44:14,091-root-INFO-drive namec:// file name  mksSandbox-2.log
+2023-03-16 17:44:14,092-root-INFO-class used SearchFiles
+2023-03-16 17:44:14,189-root-INFO-myhcl database is connected
+2023-03-16 17:44:14,192-root-INFO-not found in database
+2023-03-16 17:44:14,192-root-INFO-not found in Drives
+2023-03-16 17:44:14,193-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:45:16,011-root-INFO-drive namec:// file name  mksSandbox-2.log
+2023-03-16 17:45:16,011-root-INFO-class used SearchFiles
+2023-03-16 17:45:16,103-root-INFO-myhcl database is connected
+2023-03-16 17:45:16,106-root-INFO-not found in database
+2023-03-16 17:45:16,106-root-INFO-not found in Drives
+2023-03-16 17:45:16,106-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:46:30,801-root-INFO-drive namec:// file name  mksSandbox-2.log
+2023-03-16 17:46:30,802-root-INFO-class used SearchFiles
+2023-03-16 17:46:30,911-root-INFO-myhcl database is connected
+2023-03-16 17:46:30,914-root-INFO-not found in database
+2023-03-16 17:46:30,914-root-INFO-not found in Drives
+2023-03-16 17:46:30,915-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:48:51,249-root-INFO-drive namec:// file name  workbook = xl.load_workbook("C://testdata//Testfiles.xlsx")
+2023-03-16 17:48:51,251-root-INFO-class used SearchFiles
+2023-03-16 17:48:51,366-root-INFO-myhcl database is connected
+2023-03-16 17:48:51,369-root-INFO-not found in database
+2023-03-16 17:48:51,370-root-INFO-not found in Drives
+2023-03-16 17:48:51,370-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:50:02,553-root-INFO-drive namec:// file name  mksSandbox-2.log
+2023-03-16 17:50:02,554-root-INFO-class used SearchFiles
+2023-03-16 17:50:02,655-root-INFO-myhcl database is connected
+2023-03-16 17:50:02,657-root-INFO-not found in database
+2023-03-16 17:50:02,658-root-INFO-not found in Drives
+2023-03-16 17:50:02,658-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:50:15,142-root-INFO-time taken12.4837965965271
+2023-03-16 17:50:15,143-root-INFO-ending
+2023-03-16 17:55:58,421-root-INFO-drive namec:// file name  vm-2.scoreboard.scoreboard
+2023-03-16 17:55:58,423-root-INFO-class used SearchFiles
+2023-03-16 17:55:58,548-root-INFO-myhcl database is connected
+2023-03-16 17:55:58,551-root-INFO-not found in database
+2023-03-16 17:55:58,551-root-INFO-not found in Drives
+2023-03-16 17:55:58,551-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:56:11,100-root-INFO-time taken12.549206256866455
+2023-03-16 17:56:11,101-root-INFO-ending
+2023-03-16 17:58:04,272-root-INFO-drive namec:// file name  linux1-s002.vmdk
+2023-03-16 17:58:04,273-root-INFO-class used SearchFiles
+2023-03-16 17:58:04,394-root-INFO-myhcl database is connected
+2023-03-16 17:58:04,398-root-INFO-not found in database
+2023-03-16 17:58:04,398-root-INFO-not found in Drives
+2023-03-16 17:58:04,399-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-16 17:58:16,679-root-INFO-time taken12.277951002120972
+2023-03-16 17:58:16,679-root-INFO-ending
+2023-03-16 18:07:35,431-root-INFO-drive namec:// file name  linux1-s003.vmdk
+2023-03-16 18:07:35,432-root-INFO-class used SearchFiles
+2023-03-16 18:07:35,557-root-INFO-myhcl database is connected
+2023-03-16 18:07:35,560-root-INFO-not found in database
+2023-03-16 18:07:35,561-root-INFO-not found in Drives
+2023-03-16 18:07:35,561-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-17 15:40:06,417-root-INFO-drive namec:// file name  linux1-s001.vmdk
+2023-03-17 15:40:06,418-root-INFO-class used SearchFiles
+2023-03-17 15:40:06,528-root-INFO-myhcl database is connected
+2023-03-17 15:40:06,531-root-INFO-not found in database
+2023-03-17 15:40:06,532-root-INFO-not found in Drives
+2023-03-17 15:40:06,532-root-INFO- for searching in drive  searchfilesdrives is used
+2023-03-17 15:40:19,220-root-INFO-time taken12.688193321228027
+2023-03-17 15:40:19,220-root-INFO-ending

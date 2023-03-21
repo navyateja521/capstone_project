@@ -1,0 +1,5 @@
+2023-03-15 12:21:50,038-root-DEBUG-hello from debug
+2023-03-15 12:21:50,038-root-INFO-hello from info
+2023-03-15 12:21:50,038-root-WARNING-hello from warning
+2023-03-15 12:21:50,038-root-ERROR-hello from error
+2023-03-15 12:21:50,039-root-CRITICAL-hello from critical
